@@ -40,7 +40,7 @@ html, body {
 }
 
 .paperHeart4 {
-    left: 800px;
+    left: 480px;
 }
 
 .paperHeart5 {
@@ -117,7 +117,7 @@ html, body {
     background-color: #ffb3c1;
     border-radius: 50%;
     box-shadow: 120px -20px #ffb3c1, 240px -40px #ffb3c1, 360px -20px #ffb3c1,
-    480px 0px #ffb3c1, 600px -10px #ffb3c1, 720px 10px #ffb3c1, 840px 20px #ffb3c1, 
+    480px 0px #ffb3c1, 320px -10px #ffb3c1, 720px 10px #ffb3c1, 840px 20px #ffb3c1, 
     960px 0px #ffb3c1, 1080px 40px #ffb3c1, 1200px 20px #ffb3c1, 1320px 0px #ffb3c1,
     1440px -20px #ffb3c1;
     transition: .8s;
@@ -204,7 +204,7 @@ html, body {
     background-color: #ffccd5;
     border-radius: 50%;
     box-shadow: 120px -20px #ffccd5, 240px -40px #ffccd5, 360px -20px #ffccd5,
-    480px 0px #ffccd5, 600px -10px #ffccd5, 720px 10px #ffccd5, 840px 20px #ffccd5, 
+    480px 0px #ffccd5, 320px -10px #ffccd5, 720px 10px #ffccd5, 840px 20px #ffccd5, 
     960px 0px #ffccd5, 1080px 40px #ffccd5, 1200px 20px #ffccd5, 1320px 0px #ffccd5,
     1440px -20px #ffccd5, 1560px 0px #ffccd5;
     transition: .8s;
@@ -222,7 +222,7 @@ html, body {
     background-color: white;
     border-radius: 50%;
     box-shadow: 120px -20px white, 240px -20px white, 360px -20px white,
-    480px 0px white, 600px -10px white, 720px 10px white, 840px 20px white, 
+    480px 0px white, 320px -10px white, 720px 10px white, 840px 20px white, 
     960px 0px white, 1080px 40px white, 1200px 20px white, 1320px 0px white,
     1440px -20px white, 1560px 0px white;
     transition: .8s;
@@ -345,8 +345,8 @@ html, body {
     left: 50%;
     opacity: 0;
     transform: translate(-50%, -50%);
-    height: 600px;
-    width: 800px;
+    height: 320px;
+    width: 480px;
     background-color: transparent;
     transition: .5;
 }
@@ -357,8 +357,8 @@ html, body {
     left: 50%;
     opacity: 1;
     transform: translate(-50%, -50%);
-    height: 600px;
-    width: 800px;
+    height: 320px;
+    width: 480px;
     background-color: transparent;
     transition: .5;
     animation: animateCard 2s ease-in-out forwards;

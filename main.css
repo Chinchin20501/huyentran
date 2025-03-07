@@ -342,7 +342,7 @@ html, body {
 .cardValentine {
     position: absolute;
     top: 200%;
-    left: 50%;
+    left: 35%;
     opacity: 0;
     transform: translate(-50%, -50%);
     height: 600px;
@@ -354,7 +354,7 @@ html, body {
 .cardValentine.active {
     position: absolute;
     top: 50%;
-    left: 50%;
+    left: 35%;
     opacity: 1;
     transform: translate(-50%, -50%);
     height: 600px;

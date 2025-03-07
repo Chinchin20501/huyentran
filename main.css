@@ -340,7 +340,7 @@ html, body {
 }
 
 .cardValentine {
-    position: absolute;
+    position: fixed;
     top: 200%;
     left: 35%;
     opacity: 0;
@@ -350,9 +350,8 @@ html, body {
     background-color: transparent;
     transition: .5;
 }
-
 .cardValentine.active {
-    position: absolute;
+    position: fixed;
     top: 50%;
     left: 35%;
     opacity: 1;

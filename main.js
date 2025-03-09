@@ -1,5 +1,5 @@
 // Thay đổi nội dung búc thư ở đây
-var letterContent =" Hi vọng mọi thứ xung quanh sẽ nhẹ nhàng dịu dàng và Trân trọng hơn với em. Cảm on vì tất cả."
+var letterContent =" Hi vọng mọi thứ xung quanh sẽ nhẹ nhàng dịu dàng và Trân trọng hơn với em. Cảm on vì tất cả!."
 durationWrite = 50 
 
 // Hiệu ứng gõ chữ
